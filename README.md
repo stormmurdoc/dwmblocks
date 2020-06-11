@@ -1,4 +1,4 @@
-# dwmblocks
+# dwmblocks (Murdoc's version)
 
 Modular status bar for dwm written in c.
 
