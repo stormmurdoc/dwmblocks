@@ -2,7 +2,7 @@
 static const Block blocks[] = {
 /*Icon*/    /*Command*/             /*Update Interval*/ /*Update Signal*/
    {"", "cat /tmp/recordingicon 2>/dev/null",   0,   9},
-   {"", "db_systemd.sh",	                        0,   7},
+   {"", "db_systemd.sh",	                    0,   7},
    {"", "db_pacpackages.sh",                    0,   8},
    {"", "db_news.sh",                           0,   6},
    {"", "db_bandwith3.sh",                      2,  13},
